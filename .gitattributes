@@ -1,0 +1,10 @@
+# Корпус — побайтовые данные; никаких CRLF-нормализаций при checkout.
+golden/fixtures/** -text
+golden/expected/** -text
+ref-build/src/**    -text
+*.ltc               -text
+*.bin               -text
+*.sha256            text eol=lf
+*.sh                text eol=lf
+*.py                text eol=lf
+*.md                text eol=lf

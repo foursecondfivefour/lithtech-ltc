@@ -1,0 +1,1509 @@
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+    // variant 15: LOOK_AHEAD_SIZE = 14
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+    // variant 20: LOOK_AHEAD_SIZE = 18
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+    // variant 21: LOOK_AHEAD_SIZE = 3
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+    // variant 24: LOOK_AHEAD_SIZE = 16
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+    // variant 30: LOOK_AHEAD_SIZE = 4
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+    // variant 40: LOOK_AHEAD_SIZE = 5
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+    // variant 46: LOOK_AHEAD_SIZE = 8
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+    // variant 48: LOOK_AHEAD_SIZE = 14
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+    // variant 51: LOOK_AHEAD_SIZE = 8
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+    // variant 61: LOOK_AHEAD_SIZE = 17
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+    // variant 88: LOOK_AHEAD_SIZE = 4
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+    // variant 91: LOOK_AHEAD_SIZE = 13
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+    // variant 112: LOOK_AHEAD_SIZE = 10
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+    // variant 121: LOOK_AHEAD_SIZE = 9
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+    // variant 125: LOOK_AHEAD_SIZE = 8
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+    // variant 128: LOOK_AHEAD_SIZE = 10
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+    // variant 131: LOOK_AHEAD_SIZE = 11
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+    // variant 142: LOOK_AHEAD_SIZE = 2
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+    // variant 146: LOOK_AHEAD_SIZE = 4
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+
+uint32 CLZSSWindow::AddNode(uint32 nNode)
+{
+    uint32 nCurrNode = m_nRoot;
+    while (nCurrNode != NULL_NODE) {
+        if (nCurrNode == nNode) { ReplaceNode(nNode); return nCurrNode; }
+        nCurrNode = m_Tree[nCurrNode];
+    }
+    return NULL_NODE;
+}
+

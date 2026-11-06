@@ -1,0 +1,16 @@
+# сборка эталона
+ref-build/build/
+ref-build/compat/
+ref-build/BUILD-INFO.txt
+
+# сборка порта
+port/build/
+port/out/
+build/
+
+# прогонные артефакты
+*.o
+*.obj
+/tmp/
+/.cache/
+__pycache__/
