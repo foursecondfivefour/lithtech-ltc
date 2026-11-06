@@ -30,6 +30,7 @@ fails=0
 step() { printf '\n=== %s\n' "$*"; }
 ok()   { printf '  [ OK ] %s\n' "$*"; }
 bad()  { printf '  [FAIL] %s\n' "$*"; fails=$((fails + 1)); }
+space() { printf '  место: %s\n' "$(df -h "$ROOT" | tail -1 | awk '{print $4" свободно в "$6}')"; }
 t0=$(date +%s)
 
 if (( BUILD )); then
@@ -145,7 +146,7 @@ rm -rf "$tmp"
 # санитайзеры: отдельная сборка порта, корпус + 100 фазз-случаев под ASan/UBSan
 if (( BUILD )); then
     step "8/8 ASan/UBSan на порте (корпус + 100 фазз-случаев)"
-    asan_dir=/tmp/ltc_asan_build
+    asan_dir="$ROOT/port/build-asan"
     rm -rf "$asan_dir"
     if cmake -S "$ROOT/port" -B "$asan_dir" -G Ninja -DCMAKE_BUILD_TYPE=Debug \
              -DCMAKE_CXX_FLAGS="-fsanitize=address,undefined -fno-omit-frame-pointer -g" \

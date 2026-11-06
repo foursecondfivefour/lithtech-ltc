@@ -5,6 +5,7 @@ ref-build/BUILD-INFO.txt
 
 # сборка порта
 port/build/
+port/build-*/
 port/out/
 build/
 

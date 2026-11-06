@@ -19,8 +19,21 @@ add_library(ltc_core STATIC
     src/paths.cpp
 )
 target_include_directories(ltc_core PUBLIC include)
-# новый код порта собирается без предупреждений (оригинал — отдельно, в ref-build)
-target_compile_options(ltc_core PRIVATE -Wall -Wextra -Wpedantic -Werror)
+
+# Порт собирается без предупреждений под gcc и clang (оригинал — отдельно, в ref-build):
+# набор шире «обычного» -Wall -Wextra, включая -Wconversion и -Wsign-conversion.
+set(LTC_WARNINGS
+    -Wall -Wextra -Wpedantic -Werror
+    -Wshadow -Wconversion -Wsign-conversion
+    -Wcast-qual -Wwrite-strings
+    -Wdouble-promotion -Wfloat-equal
+    -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual
+    -Wnull-dereference -Wformat=2)
+if(CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
+    # gcc-only (у clang такого флага нет)
+    list(APPEND LTC_WARNINGS -Wuseless-cast)
+endif()
+target_compile_options(ltc_core PUBLIC ${LTC_WARNINGS})
 
 add_executable(ltc src/main.cpp)
 target_link_libraries(ltc PRIVATE ltc_core)
@@ -39,7 +52,11 @@ target_link_libraries(ltc_tests_m2 PRIVATE ltc_core)
 add_executable(ltc_tests_m3 tests/test_m3.cpp)
 target_link_libraries(ltc_tests_m3 PRIVATE ltc_core)
 
+add_executable(ltc_tests_m4 tests/test_m4.cpp)
+target_link_libraries(ltc_tests_m4 PRIVATE ltc_core)
+
 enable_testing()
 add_test(NAME unit_m1 COMMAND ltc_tests_m1)
 add_test(NAME unit_m2 COMMAND ltc_tests_m2)
 add_test(NAME unit_m3 COMMAND ltc_tests_m3)
+add_test(NAME unit_m4 COMMAND ltc_tests_m4)

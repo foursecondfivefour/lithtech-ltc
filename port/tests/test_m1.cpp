@@ -358,18 +358,6 @@ std::string capture_stdout(const std::vector<std::string>& args, int& code)
     return buffer.str();
 }
 
-std::string capture_all(const std::vector<std::string>& args, int& code)
-{
-    std::ostringstream out;
-    std::ostringstream err;
-    std::streambuf*    old_out = std::cout.rdbuf(out.rdbuf());
-    std::streambuf*    old_err = std::cerr.rdbuf(err.rdbuf());
-    code = ltc::run_args(args);
-    std::cout.rdbuf(old_out);
-    std::cerr.rdbuf(old_err);
-    return out.str() + err.str();
-}
-
 void test_cli_messages()
 {
     int code = 0;

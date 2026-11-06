@@ -38,8 +38,13 @@ else
 fi
 
 step "2/6 эталон отвечает"
-if "$REF" -help | head -1 | grep -q 'compression and decompression of LTA'; then
-    ok "$("$REF" -help | sed -n 2p)"
+# вывод снимается в переменную: конвейер «ltc -help | head -1» при pipefail иногда
+# получает SIGPIPE и роняет проверку (плавающий FAIL) — так проверка детерминирована
+if ! help_out=$("$REF" -help); then
+    bad "-help завершился с ошибкой"; exit 1
+fi
+if [[ "$help_out" == *"compression and decompression of LTA"* ]]    && [[ "$(printf '%s\n' "$help_out" | sed -n 2p)" == Usage:* ]]; then
+    ok "$(printf '%s\n' "$help_out" | sed -n 2p)"
 else
     bad "-help не даёт ожидаемой строки"; exit 1
 fi

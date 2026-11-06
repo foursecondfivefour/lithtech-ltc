@@ -66,8 +66,9 @@ std::string to_hex(const std::string& data)
     static const char* digits = "0123456789abcdef";
     std::string out;
     out.reserve(data.size() * 2);
-    for (unsigned char c : data)
+    for (char ch : data)
     {
+        const auto c = static_cast<unsigned char>(ch);
         out.push_back(digits[c >> 4]);
         out.push_back(digits[c & 0x0F]);
     }
